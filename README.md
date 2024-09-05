@@ -15,11 +15,13 @@ Colunas Principais:
 
 * price: Valor do produto.
 
-freight_value: Valor do frete.
+* freight_value: Valor do frete.
 
-payment_type: Método de pagamento utilizado (ex.: cartão de crédito).
+* payment_type: Método de pagamento
+  
+* utilizado (ex.: cartão de crédito).
 
-payment_installments: Número de parcelas.
+* payment_installments: Número de parcelas.
 
 ##
 ![Captura de tela 2024-09-04 210415](https://github.com/user-attachments/assets/7a04d8bd-5218-4742-8580-4051e48ed74c)
